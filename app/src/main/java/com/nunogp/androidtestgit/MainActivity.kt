@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
        var ocupation = "developer"
-        var name = "jonnyB"
+       var name = "jonnyB"
     }
 }
